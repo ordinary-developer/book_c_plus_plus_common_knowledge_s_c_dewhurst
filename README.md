@@ -2,16 +2,16 @@ Project information
 -------------------
 
 This repository contains my files (my code snippets and my synopses about the main book's topics) 
-for the book  **"C++ Common Knowledge"** by **Stephen C. Dewhurst**
+for the book  **"C++ Common Knowledge"** by **Stephen C. Dewhurst**.
 
  
- [here is the link to ozon](http://www.ozon.ru/context/detail/id/3707235/) 
+[Tere is the link to ozon](http://www.ozon.ru/context/detail/id/3707235/).
 
 
 Installation
 ------------
 
-Simply copy (clone the repository) and see and read it
+Simply copy (clone the repository) and see and read it.
 
  
 Basic usage
@@ -34,4 +34,4 @@ Contributing
 ------------
 
 This project doesn't need to be contributed,
-but just in case you can always connect with me
+but just in case you can always connect with me.
